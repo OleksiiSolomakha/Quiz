@@ -2,3 +2,7 @@
     margin: 0;
     padding: 0;
 }
+.btn {
+    background: #FFC107;
+    color: #28A745;
+}
